@@ -1,0 +1,53 @@
+					_______________________________________________
+					                                               
+					    Projectile fired parallel to horizontl     
+					_______________________________________________
+					_______________________________________________
+					   Find 'Velocity(v),Vertical and Horisontal dis. and velocity angle at time 't' '  
+
+
+
+
+					  Enter the time (s): 3
+
+
+					  Enter the initial velocity (m/s): 47
+
+
+					  velocity in y : 76.43 meters/sec
+
+
+
+					  velocity in x : 47 meters/sec
+
+
+
+					 velocity angle: 0.551334 radian
+
+
+
+					  Range: 141 meters
+
+
+
+					  vertical height: 141 meters
+
+		__________________________________________________________
+		                                                          
+		                     Full Projectile                      
+		__________________________________________________________
+		__________________________________________________________
+
+					  Find 'time to reach max. height(tm)' 
+
+
+
+
+					  Enter the initial velocity (m/s):  36
+
+
+					  Enter the angle  of projection (radian or degrees): 44
+
+
+					 time to reach max. height(tm) : 0.0649612 sec
+
